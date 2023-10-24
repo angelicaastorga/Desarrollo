@@ -23,8 +23,11 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author MAQF10
+ * @author AvanTI 
  */
+
+//Este es el primer commit
+
 @Entity
 @Table(name = "alumno")
 @XmlRootElement
