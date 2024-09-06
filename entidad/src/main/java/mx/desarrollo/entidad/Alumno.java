@@ -27,6 +27,7 @@ import javax.xml.bind.annotation.XmlTransient;
  */
 
 //Este es el primer commit
+//Este es el segundo cambio
 
 @Entity
 @Table(name = "alumno")
